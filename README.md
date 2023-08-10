@@ -1,1 +1,1 @@
-# UConnU2CLab.github.io
+# U2CLabUConn.github.io
